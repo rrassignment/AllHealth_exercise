@@ -1,0 +1,2 @@
+com/ruchika/interview/BuildConfig.java
+ com.ruchika.interview.BuildConfig
